@@ -13,6 +13,7 @@
 </div>
   
 <div style="display: inline_block"><br />
+  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Symfony" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg">
   <img align="center" alt="Zend" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zend/zend-original.svg">
